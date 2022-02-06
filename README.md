@@ -1,5 +1,6 @@
 api_urls = {
         'RecipeList': '/recipe-list/',
+        
         'RecipeDetail View': '/recipe-detail/<str:pk>/',
         'RecipeCreate': '/recipe-create/',
         'RecipeUpdate': '/recipe-update/<str:pk>/',
